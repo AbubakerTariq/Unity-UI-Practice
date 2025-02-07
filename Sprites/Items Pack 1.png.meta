@@ -1,0 +1,4439 @@
+fileFormatVersion: 2
+guid: 907917342040f104e9129f98f6a1b71c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3dbd7536af32d4ba26ec90c803af39
+      internalID: -498441879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 313
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c9f9b1f52a8ea47a370afe8ca5cfdf
+      internalID: 1826736456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 313
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84c7d84ee2cde4488b0d22cc46e7772
+      internalID: -1003413592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 313
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042469f9b19c0724080e9bee53ba9e2f
+      internalID: 719812774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 313
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8443dd0bbf443c4a8d6c7f69438eec4
+      internalID: 96217123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 313
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f40eade6f655a468199fed3bd82931
+      internalID: -12094842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 313
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c458949d2fba096458a1819f450422dc
+      internalID: -658859677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 313
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7376a62434e629e4c9ecfa4db9994f7b
+      internalID: 776314879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 313
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074dbe9a97eaee44fa5fdd3deb8cf6e2
+      internalID: -1712303124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 313
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20524cffd27f39348ad85aa2071687c8
+      internalID: 527944823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 313
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e34e033f0f99254cba16004ac909939
+      internalID: 1340931875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 313
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f19a6d85a6e2aa4ea115da6baa9eec9
+      internalID: 1697220482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 313
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a523ee721618b4db5550aea5ad208d
+      internalID: 13553270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 313
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e682e33b9361b4fbc3ce4a3462aa86
+      internalID: -387398940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19936f0429abe644aac9245cf95910fb
+      internalID: 1899555082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481199657fb287744abfa949523fa5ef
+      internalID: 892365506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091137ba13e0a5442aeb923d8e3b6429
+      internalID: -1280314133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf8f681b33b6ca43964486f873e30e2
+      internalID: -2077061906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec93a98defe1b3f46a7a91e648ff9671
+      internalID: 2067890290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b684ab8396784bf42a201d5b21c86b27
+      internalID: 2011533934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab139961c14c7064884486e5c65c1ad8
+      internalID: -561391382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950e155cd080754d812a1a3502b8357
+      internalID: 944434855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 289
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affcf15eaa9d73940a33e3e5b1405df9
+      internalID: 886652579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 290
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b81cc2f540b3c34589a8df504a6629b
+      internalID: 2002180525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 289
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc4b40ccce6b1c4887a36eb3b4016f2
+      internalID: 1659300916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 289
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e24a68d2bb3244dae85f6e8e0e814e
+      internalID: 1060669723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 289
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823fb801bf9f07647af7f68f2ed0240d
+      internalID: 94089554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206fba71e9f6315499544a8de7fff398
+      internalID: -2026061897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 265
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf5e47cc6f2df94a9fe96c3e8b59423
+      internalID: -738660244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_29
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 265
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5c5b844715e694e861114facea4ca4
+      internalID: -106155055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 265
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3a6403658542749b03e2e9fb98f03a
+      internalID: -1670699109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 265
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469fbdee3eabc3546919593b7cc4a920
+      internalID: -1502158914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 265
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926976d57b20b984eb358f1ae2fbdbb8
+      internalID: 913962266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 265
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b8085cb29963a4abe8a2baf0ffc863
+      internalID: -60576077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 265
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c2b6d09ebe9434283bed3ea86382b5
+      internalID: 1191339607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 265
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015b28aaa65194b48b09c7dacdaecf6f
+      internalID: -799567970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 266
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897570b688290e741afce00f03efff5b
+      internalID: 1042710317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_37
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 266
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8cae520e58ddf44b1bf12cac6f0fd7
+      internalID: 157931036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 265
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c768987dcb0dc43bd7eb0ef24e4cee
+      internalID: 1233907433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_39
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 265
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0500d4a588463dc428d5ff5a79252eaa
+      internalID: -23270043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_40
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 265
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae679f84762aad743b357010441cbda6
+      internalID: 1250467598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_41
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 265
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3175f5190d787f4d9de00f1e5a5275e
+      internalID: -1498960910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ad20ab11daa1148b881c52f1d58580
+      internalID: -1292340503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_43
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 241
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9122ca2631c74478ff445b57157fc0
+      internalID: 1601067780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 241
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f9774dd7d283d4eac07aa7bdbbad21
+      internalID: -1704193441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 241
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a30312ff256b8f4e8c2cb0def675f99
+      internalID: -721353981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 241
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70dd8c84cdd36d4894754e6f54571c7
+      internalID: -105718492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 241
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8ed7190b95469449805c5ec04c07f1
+      internalID: 78137582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_48
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 241
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2384d3e310f46ae4b9b894d9fa69ecb2
+      internalID: 1276932011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 241
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21debb5cae3730144855dd0c8ef7ab3b
+      internalID: 1431670108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 241
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798fe334d042c6f4f97e59fbbd9dce13
+      internalID: -1315902490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 241
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e474fa276453bbf44b0e6c8f2c074b95
+      internalID: -1566892106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_52
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 241
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c244d514c4cc6419893acfa493cf98
+      internalID: 250205909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_53
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 241
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b77dd9b9a35484db7898a8a6435cc4
+      internalID: -699398751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_54
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 241
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842bbfade30bedb4e9e68aff8178dfa6
+      internalID: -1857007592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_55
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 241
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0531e1bd2fbcb745920c5d0684929ab
+      internalID: -1707997362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 217
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d4c9069e88704429e436c93dd3cb8d
+      internalID: -1653662760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_57
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 217
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eebf91cb89276047b80b69543278ee5
+      internalID: -512336101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 217
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefb340254aaafa4590ab68a67272007
+      internalID: 2044567756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 217
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f82f5555766e9a4cbdcf6c858757f87
+      internalID: -517961215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_60
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 217
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6700cb72f84140418fb33388999af62
+      internalID: 2033044613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_61
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 217
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e397be0f9e58d847b0a4010b988fea4
+      internalID: 1966949574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 217
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256f20c14e1193a4f903bea1c2fc0a24
+      internalID: -1370966151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 217
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3863a9eb435e4b4981b74ded3c0b4bd
+      internalID: -1706648198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 217
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656aaab21f161da4da1dbde4b7437805
+      internalID: 2089087757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_65
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 217
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc3fa5ecd4ae045b8ad1008ff73173
+      internalID: 1557932586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_66
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 217
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e71d3f51bd261458c645c1f7217dcf
+      internalID: 1480631154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_67
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 217
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd461751545249847b9fd9d0613133d2
+      internalID: 215925751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_68
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 217
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd49494a2214524dac32390a07db249
+      internalID: 146490039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_69
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 217
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdfffc820ee57744ab635258bca56ca
+      internalID: -30265051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce95e7e30e36e47ab36526766abb67
+      internalID: 1037929043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 193
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac2064feaf357a49b4c5c356656c5f3
+      internalID: -1145867325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_72
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 193
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad29dd3c1f33c49b2f774fa8ea38d6
+      internalID: -721726045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_73
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 193
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f857201db6deda34885aed7f18567145
+      internalID: -419040383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f02a2f6f82dad94fa14dcb2f65850f6
+      internalID: 436062990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_75
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 193
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb599dfd5d3fd8141925ecf14278fa26
+      internalID: -2064070989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_76
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 193
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb01a784ff5df2499177cefcd0d0ddc
+      internalID: -2026954243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_77
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 193
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a060ae3cb68f667488efcd9a86b4eb62
+      internalID: 1856516561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_78
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 193
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284cdb0be7ff0fa498b26afdd96dee67
+      internalID: 422554212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_79
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 193
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cabcb941f58de47b1199dac193b008
+      internalID: -2132274393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_80
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 193
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fdfbbc349af674a9288bfe43ec006e
+      internalID: 1673114817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_81
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 193
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0a41864cf0ef647b255dcd2c8d6f08
+      internalID: -410987406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_82
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698aaea0d9fd21b4aa8dbf159f2e0119
+      internalID: 1769448912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_83
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 193
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffbb105b16831740ac9cdfad6a0a44a
+      internalID: 1115228809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfb17809a6376a4a9f64092cc4f7bcd
+      internalID: -144755446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_85
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b19eaea0d6e914b8b2f6763c4b1587
+      internalID: -1264364610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_86
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c750fead07d5e10428ac6b28a15fe52a
+      internalID: -1895418324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_87
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a16d09dd1b3374fa9ea5b5372135e7
+      internalID: 424290406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068ff3d8cfffeb549ac47de6eb70b1f2
+      internalID: -1068138433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_89
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66af72614c94254789ed59f09007c39
+      internalID: -620760205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_90
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5abcfc6bfe57f45a530331b240d66d
+      internalID: -1828392655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_91
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9805df49196aa5a4baee7a69f74f208e
+      internalID: 1697629900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_92
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc809f7566444d45aa1446367c183f0
+      internalID: 1698603960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_93
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 171
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac8926c111064469dee200db2c3daa
+      internalID: -1371457657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_94
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 169
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19c67ce9cdc23641bb3d4c8a12ef092
+      internalID: 83538186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_95
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677d242e4c4b24148b551ce77fbbcd89
+      internalID: 1695981109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_96
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733c2c8f244191d48872958e9d6a99cf
+      internalID: 1299541248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_97
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287566ccb904d6b469045eda45e2c18a
+      internalID: 1652073611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e82933cd4bb354194d8c26c7089da4
+      internalID: -417264393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_99
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 145
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74a1739466970e4fbc05a503ef42b71
+      internalID: -1227745522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_100
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 145
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7b1b8e2aa81564f863fd04b6607dbe
+      internalID: -522133387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_101
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 145
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6757a96041d7174e9bcee38eb9b92d8
+      internalID: 369200490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_102
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 145
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ab128d6b88b8d47b8382341f62d46a
+      internalID: -1423319918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_103
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 145
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c6294210729414c903297c4882b302
+      internalID: 182229965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_104
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 145
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54acab1a239e5bc42a67bf252d0a1398
+      internalID: 2066508131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_105
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 145
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186768a5cbd7cd64d8a0081aec4c1856
+      internalID: -1892509698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_106
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 145
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75048046c9225f54589d2f2861bf5b17
+      internalID: 1336728992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_107
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 147
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd26fe4b6725ed40ba19ae7fadd273d
+      internalID: 683245236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_108
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 145
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b82d2cc258c2c4c84e5c6ac49567fd
+      internalID: 1141291953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_109
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 145
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251d51bcc937a4a4193dca2428321e2b
+      internalID: -1565751583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_110
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 145
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe21ce6100d9a5478bb9575e526f5c0
+      internalID: 508745648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_111
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 145
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519c250b8141a6343be5c6bec0ab70e9
+      internalID: -4809726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_112
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 121
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88046bfdf88693042a85e28695e8543b
+      internalID: -887417444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_113
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 121
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d89c4984f9cbe47a001d28db16af06
+      internalID: -2008208087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_114
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 121
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15019c0d19ad16142aec023530b92164
+      internalID: 361802789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_115
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 121
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19324c3c68a5271478337d88ca081f10
+      internalID: 2024094740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_116
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 121
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5db7984b06fbc4cb48ea5a91758635
+      internalID: 587534427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_117
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 121
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bae3c15aa538048ae0e4bb575d92eb
+      internalID: 2129104351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_118
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 121
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe605373b9aa8a41801cc64e722f7c2
+      internalID: 952224296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_119
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 121
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda32b6c66e3ea649b88d400be2da829
+      internalID: 1373850926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_120
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 121
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe249ae0ec9148243a09866f091cc943
+      internalID: -2026133454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_121
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 123
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35699fb35656e6249a3a67b13c541212
+      internalID: -473843100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_122
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 121
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5212231807bd1479dc87fc60f614cc
+      internalID: 198888041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_123
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c1937355e63d4ba4fd8b0e5e8a38b
+      internalID: 383226618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_124
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1818011e429a649449875ac563c6f7a7
+      internalID: 71349435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_125
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dd428a30fbcd649a6df491a7458bf9
+      internalID: 1768508047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922b6f42d297d294c9fadc4a494318bd
+      internalID: 122543456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_127
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 97
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aea03c0f1590340907aec3f8861ace
+      internalID: -1805302549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_128
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb66fd4f0004f748890f267333f9a12
+      internalID: -1087002146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_129
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 97
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0692b480f5116eb4aabed3eca2a8df44
+      internalID: 1589696111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_130
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46170d9b9762044cb3de01483ca3b19
+      internalID: 82273673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_131
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 97
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3c263029066f840a87646834c5758a
+      internalID: -127456950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_132
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 97
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360bf6e1ed6c7f943ba97af13ed6dd78
+      internalID: -651089699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_133
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 97
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93a19a2dae1cc7418877d5f82ab211f
+      internalID: -2083052313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_134
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 97
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8e393b1ac46e74a9afc696afd7d3c3
+      internalID: 709184599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_135
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 97
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd01489aa7df5e54fbdee8052fdab382
+      internalID: 2046832464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_136
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 97
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd4a4e0946b78c4386ffe803891272e
+      internalID: 283967341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_137
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 97
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0feac5658f13748a412c724d080831
+      internalID: 1022763651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_138
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ac1d15824d6fe4398846991965a51f
+      internalID: 1446866029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_139
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 97
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4c96f5107bc774483f35a4f84c5ff8
+      internalID: 1191286965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_140
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0de2b273b635748acadd2d5d2f7b89
+      internalID: -1849841579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_141
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 73
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a03f1e3a592d8340b980a84ee800236
+      internalID: 821893211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_142
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 73
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f35806ad81e324680b51e0f3ad5c3b
+      internalID: 373903692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_143
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589c18def6c8398449efc53e95fc0064
+      internalID: 717938563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_144
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 73
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0995612f495cd03429146a6ea992aaf7
+      internalID: -1452360012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_145
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 73
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e5fca1a27aed249a7e0c034de18076
+      internalID: -964240623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_146
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25674322d99a67d43b790c06b1441b37
+      internalID: -2069158397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_147
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 73
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4ab37287b4ccc42b37850a0c76449e
+      internalID: 1004535878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_148
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 73
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c7395da633951458cdb91de79d437c
+      internalID: -1689994168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_149
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 73
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fbf084c16a2cb45a5aca2f80c07ef7
+      internalID: 455441072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_150
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 73
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a407b9ffd3d70148a74535a4a629f8a
+      internalID: 245623028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_151
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 73
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fa3833b3a8df848926bf161ae33c8e
+      internalID: 734447860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_152
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 73
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c06270ad5be4a4eb6008d4659dcb14
+      internalID: -965112965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_153
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 73
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fddbf3076a055f499a6c8b9802498d2
+      internalID: -2141421091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_154
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb97b4068b80574b818dff92bb6b0f2
+      internalID: -152664919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_155
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585ff0d111892114b9149a4c0bd1a832
+      internalID: 517802047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_156
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb2f3657b2228943853e53537cb9aae
+      internalID: -1353138132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_157
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 49
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a90f05a979429c4095dce9f266910c4
+      internalID: 981950579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_158
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6906dcbf4d0b14f42a1df4a3cbb837e6
+      internalID: 2100574300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_159
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 49
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a59b7c2619227b4a9a0e999607a147f
+      internalID: 274056040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_160
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 49
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1036397ec52bdd4da8869899ee46e0e
+      internalID: 2056139202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_161
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 49
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01599e839cbb4804cb17cda9989411ff
+      internalID: 1595597100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_162
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 49
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4237490f29d0d3f4ebf1910f4ca9ea27
+      internalID: -1343292236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_163
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 49
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efd6173c0234f74885a983aa6592b26
+      internalID: -732519654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_164
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 49
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552d5438f173a94428a7cbcbeb320880
+      internalID: 1689504474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_165
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 49
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c898328548d52d74a8025d5fe0bb4a17
+      internalID: -560522108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_166
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 49
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d42cfe8474f56841a65f9b7264b7565
+      internalID: 1484227929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_167
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 49
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf2a5f2661843d43b9bf6546033662c
+      internalID: 143259770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_168
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e2f2aec3ffb6c479e5273967aa18c3
+      internalID: 1895429296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_169
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4303fa4d891a8324dab693c41f173830
+      internalID: -578562212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_170
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 25
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08990a6010e60754b9407c51ab4c95cd
+      internalID: 600061220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_171
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 25
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa37dcb089f50e498c036f1ef120057
+      internalID: 958269161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_172
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 25
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868db2b0e35bdf84595537eca8621247
+      internalID: -795179419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_173
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf74d02907935144841c3412231a621
+      internalID: 1531414531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_174
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e9852d1eec304458e3b75c5f0e493b
+      internalID: 74625519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_175
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758144d76bdc23f4d9ba95db6e8fbfb5
+      internalID: -1154145614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_176
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120d70570f1e61a4c8413aa23829b7a6
+      internalID: 147788978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_177
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4af87711335484ea31a36c247d61e7
+      internalID: 1631030455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_178
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee05f2b0555362b418790f4c4e52a8c4
+      internalID: 1870081994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_179
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e79ddcd7c23c5143b4238bfcfd671b3
+      internalID: 109217484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_180
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f2b8f4fe5d1c44b8822b108217a48
+      internalID: -1580155865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_181
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06da9aa0d59e5c147b0ab7c3c49562f4
+      internalID: -376456294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_182
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b9472a7b2e6249a5bb156adb9d53c
+      internalID: 1561945640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_183
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f9fec6bd3fc924bb9d1cc6b201f131
+      internalID: -588799057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_184
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd870c535f2e3746bce4cde347a94ea
+      internalID: -1834907738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_185
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 4
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7898fe8e71438c141bf31444fcde9a33
+      internalID: 97076422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_186
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5910b57b5ed56f43a46d9b4f6eaf9b5
+      internalID: 622564356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_187
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba681292fbc4c4c94227c4fdca1e6b
+      internalID: -976802557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_188
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835caa0bb1ed09f4f8e0e55aebbda81b
+      internalID: -1639584906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_189
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aade290a4a030384c8e9566454c75dbd
+      internalID: 781880223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_190
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1564fa58141ac4439d58dfd98b394e7
+      internalID: 644529377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_191
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bab6be0acb4a2459b63a23d3977ab4
+      internalID: 1783248792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_192
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073df57a86397c7458a592efb007a958
+      internalID: 1743821010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_193
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad81e8412c44424cb176371579c1651
+      internalID: 1269618935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_194
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c89e8e6abff5e0419588f7e1f8c158b
+      internalID: -1478766979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_set_of_inventory_items_24x24-26_195
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434f571ab714a4546847a54dabd9344c
+      internalID: -2091699093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      new_set_of_inventory_items_24x24-26_0: -498441879
+      new_set_of_inventory_items_24x24-26_1: 1826736456
+      new_set_of_inventory_items_24x24-26_10: 1340931875
+      new_set_of_inventory_items_24x24-26_100: -522133387
+      new_set_of_inventory_items_24x24-26_101: 369200490
+      new_set_of_inventory_items_24x24-26_102: -1423319918
+      new_set_of_inventory_items_24x24-26_103: 182229965
+      new_set_of_inventory_items_24x24-26_104: 2066508131
+      new_set_of_inventory_items_24x24-26_105: -1892509698
+      new_set_of_inventory_items_24x24-26_106: 1336728992
+      new_set_of_inventory_items_24x24-26_107: 683245236
+      new_set_of_inventory_items_24x24-26_108: 1141291953
+      new_set_of_inventory_items_24x24-26_109: -1565751583
+      new_set_of_inventory_items_24x24-26_11: 1697220482
+      new_set_of_inventory_items_24x24-26_110: 508745648
+      new_set_of_inventory_items_24x24-26_111: -4809726
+      new_set_of_inventory_items_24x24-26_112: -887417444
+      new_set_of_inventory_items_24x24-26_113: -2008208087
+      new_set_of_inventory_items_24x24-26_114: 361802789
+      new_set_of_inventory_items_24x24-26_115: 2024094740
+      new_set_of_inventory_items_24x24-26_116: 587534427
+      new_set_of_inventory_items_24x24-26_117: 2129104351
+      new_set_of_inventory_items_24x24-26_118: 952224296
+      new_set_of_inventory_items_24x24-26_119: 1373850926
+      new_set_of_inventory_items_24x24-26_12: 13553270
+      new_set_of_inventory_items_24x24-26_120: -2026133454
+      new_set_of_inventory_items_24x24-26_121: -473843100
+      new_set_of_inventory_items_24x24-26_122: 198888041
+      new_set_of_inventory_items_24x24-26_123: 383226618
+      new_set_of_inventory_items_24x24-26_124: 71349435
+      new_set_of_inventory_items_24x24-26_125: 1768508047
+      new_set_of_inventory_items_24x24-26_126: 122543456
+      new_set_of_inventory_items_24x24-26_127: -1805302549
+      new_set_of_inventory_items_24x24-26_128: -1087002146
+      new_set_of_inventory_items_24x24-26_129: 1589696111
+      new_set_of_inventory_items_24x24-26_13: -387398940
+      new_set_of_inventory_items_24x24-26_130: 82273673
+      new_set_of_inventory_items_24x24-26_131: -127456950
+      new_set_of_inventory_items_24x24-26_132: -651089699
+      new_set_of_inventory_items_24x24-26_133: -2083052313
+      new_set_of_inventory_items_24x24-26_134: 709184599
+      new_set_of_inventory_items_24x24-26_135: 2046832464
+      new_set_of_inventory_items_24x24-26_136: 283967341
+      new_set_of_inventory_items_24x24-26_137: 1022763651
+      new_set_of_inventory_items_24x24-26_138: 1446866029
+      new_set_of_inventory_items_24x24-26_139: 1191286965
+      new_set_of_inventory_items_24x24-26_14: 1899555082
+      new_set_of_inventory_items_24x24-26_140: -1849841579
+      new_set_of_inventory_items_24x24-26_141: 821893211
+      new_set_of_inventory_items_24x24-26_142: 373903692
+      new_set_of_inventory_items_24x24-26_143: 717938563
+      new_set_of_inventory_items_24x24-26_144: -1452360012
+      new_set_of_inventory_items_24x24-26_145: -964240623
+      new_set_of_inventory_items_24x24-26_146: -2069158397
+      new_set_of_inventory_items_24x24-26_147: 1004535878
+      new_set_of_inventory_items_24x24-26_148: -1689994168
+      new_set_of_inventory_items_24x24-26_149: 455441072
+      new_set_of_inventory_items_24x24-26_15: 892365506
+      new_set_of_inventory_items_24x24-26_150: 245623028
+      new_set_of_inventory_items_24x24-26_151: 734447860
+      new_set_of_inventory_items_24x24-26_152: -965112965
+      new_set_of_inventory_items_24x24-26_153: -2141421091
+      new_set_of_inventory_items_24x24-26_154: -152664919
+      new_set_of_inventory_items_24x24-26_155: 517802047
+      new_set_of_inventory_items_24x24-26_156: -1353138132
+      new_set_of_inventory_items_24x24-26_157: 981950579
+      new_set_of_inventory_items_24x24-26_158: 2100574300
+      new_set_of_inventory_items_24x24-26_159: 274056040
+      new_set_of_inventory_items_24x24-26_16: -1280314133
+      new_set_of_inventory_items_24x24-26_160: 2056139202
+      new_set_of_inventory_items_24x24-26_161: 1595597100
+      new_set_of_inventory_items_24x24-26_162: -1343292236
+      new_set_of_inventory_items_24x24-26_163: -732519654
+      new_set_of_inventory_items_24x24-26_164: 1689504474
+      new_set_of_inventory_items_24x24-26_165: -560522108
+      new_set_of_inventory_items_24x24-26_166: 1484227929
+      new_set_of_inventory_items_24x24-26_167: 143259770
+      new_set_of_inventory_items_24x24-26_168: 1895429296
+      new_set_of_inventory_items_24x24-26_169: -578562212
+      new_set_of_inventory_items_24x24-26_17: -2077061906
+      new_set_of_inventory_items_24x24-26_170: 600061220
+      new_set_of_inventory_items_24x24-26_171: 958269161
+      new_set_of_inventory_items_24x24-26_172: -795179419
+      new_set_of_inventory_items_24x24-26_173: 1531414531
+      new_set_of_inventory_items_24x24-26_174: 74625519
+      new_set_of_inventory_items_24x24-26_175: -1154145614
+      new_set_of_inventory_items_24x24-26_176: 147788978
+      new_set_of_inventory_items_24x24-26_177: 1631030455
+      new_set_of_inventory_items_24x24-26_178: 1870081994
+      new_set_of_inventory_items_24x24-26_179: 109217484
+      new_set_of_inventory_items_24x24-26_18: 2067890290
+      new_set_of_inventory_items_24x24-26_180: -1580155865
+      new_set_of_inventory_items_24x24-26_181: -376456294
+      new_set_of_inventory_items_24x24-26_182: 1561945640
+      new_set_of_inventory_items_24x24-26_183: -588799057
+      new_set_of_inventory_items_24x24-26_184: -1834907738
+      new_set_of_inventory_items_24x24-26_185: 97076422
+      new_set_of_inventory_items_24x24-26_186: 622564356
+      new_set_of_inventory_items_24x24-26_187: -976802557
+      new_set_of_inventory_items_24x24-26_188: -1639584906
+      new_set_of_inventory_items_24x24-26_189: 781880223
+      new_set_of_inventory_items_24x24-26_19: 2011533934
+      new_set_of_inventory_items_24x24-26_190: 644529377
+      new_set_of_inventory_items_24x24-26_191: 1783248792
+      new_set_of_inventory_items_24x24-26_192: 1743821010
+      new_set_of_inventory_items_24x24-26_193: 1269618935
+      new_set_of_inventory_items_24x24-26_194: -1478766979
+      new_set_of_inventory_items_24x24-26_195: -2091699093
+      new_set_of_inventory_items_24x24-26_2: -1003413592
+      new_set_of_inventory_items_24x24-26_20: -561391382
+      new_set_of_inventory_items_24x24-26_21: 944434855
+      new_set_of_inventory_items_24x24-26_22: 886652579
+      new_set_of_inventory_items_24x24-26_23: 2002180525
+      new_set_of_inventory_items_24x24-26_24: 1659300916
+      new_set_of_inventory_items_24x24-26_25: 1060669723
+      new_set_of_inventory_items_24x24-26_26: 94089554
+      new_set_of_inventory_items_24x24-26_27: -2026061897
+      new_set_of_inventory_items_24x24-26_28: -738660244
+      new_set_of_inventory_items_24x24-26_29: -106155055
+      new_set_of_inventory_items_24x24-26_3: 719812774
+      new_set_of_inventory_items_24x24-26_30: -1670699109
+      new_set_of_inventory_items_24x24-26_31: -1502158914
+      new_set_of_inventory_items_24x24-26_32: 913962266
+      new_set_of_inventory_items_24x24-26_33: -60576077
+      new_set_of_inventory_items_24x24-26_34: 1191339607
+      new_set_of_inventory_items_24x24-26_35: -799567970
+      new_set_of_inventory_items_24x24-26_36: 1042710317
+      new_set_of_inventory_items_24x24-26_37: 157931036
+      new_set_of_inventory_items_24x24-26_38: 1233907433
+      new_set_of_inventory_items_24x24-26_39: -23270043
+      new_set_of_inventory_items_24x24-26_4: 96217123
+      new_set_of_inventory_items_24x24-26_40: 1250467598
+      new_set_of_inventory_items_24x24-26_41: -1498960910
+      new_set_of_inventory_items_24x24-26_42: -1292340503
+      new_set_of_inventory_items_24x24-26_43: 1601067780
+      new_set_of_inventory_items_24x24-26_44: -1704193441
+      new_set_of_inventory_items_24x24-26_45: -721353981
+      new_set_of_inventory_items_24x24-26_46: -105718492
+      new_set_of_inventory_items_24x24-26_47: 78137582
+      new_set_of_inventory_items_24x24-26_48: 1276932011
+      new_set_of_inventory_items_24x24-26_49: 1431670108
+      new_set_of_inventory_items_24x24-26_5: -12094842
+      new_set_of_inventory_items_24x24-26_50: -1315902490
+      new_set_of_inventory_items_24x24-26_51: -1566892106
+      new_set_of_inventory_items_24x24-26_52: 250205909
+      new_set_of_inventory_items_24x24-26_53: -699398751
+      new_set_of_inventory_items_24x24-26_54: -1857007592
+      new_set_of_inventory_items_24x24-26_55: -1707997362
+      new_set_of_inventory_items_24x24-26_56: -1653662760
+      new_set_of_inventory_items_24x24-26_57: -512336101
+      new_set_of_inventory_items_24x24-26_58: 2044567756
+      new_set_of_inventory_items_24x24-26_59: -517961215
+      new_set_of_inventory_items_24x24-26_6: -658859677
+      new_set_of_inventory_items_24x24-26_60: 2033044613
+      new_set_of_inventory_items_24x24-26_61: 1966949574
+      new_set_of_inventory_items_24x24-26_62: -1370966151
+      new_set_of_inventory_items_24x24-26_63: -1706648198
+      new_set_of_inventory_items_24x24-26_64: 2089087757
+      new_set_of_inventory_items_24x24-26_65: 1557932586
+      new_set_of_inventory_items_24x24-26_66: 1480631154
+      new_set_of_inventory_items_24x24-26_67: 215925751
+      new_set_of_inventory_items_24x24-26_68: 146490039
+      new_set_of_inventory_items_24x24-26_69: -30265051
+      new_set_of_inventory_items_24x24-26_7: 776314879
+      new_set_of_inventory_items_24x24-26_70: 1037929043
+      new_set_of_inventory_items_24x24-26_71: -1145867325
+      new_set_of_inventory_items_24x24-26_72: -721726045
+      new_set_of_inventory_items_24x24-26_73: -419040383
+      new_set_of_inventory_items_24x24-26_74: 436062990
+      new_set_of_inventory_items_24x24-26_75: -2064070989
+      new_set_of_inventory_items_24x24-26_76: -2026954243
+      new_set_of_inventory_items_24x24-26_77: 1856516561
+      new_set_of_inventory_items_24x24-26_78: 422554212
+      new_set_of_inventory_items_24x24-26_79: -2132274393
+      new_set_of_inventory_items_24x24-26_8: -1712303124
+      new_set_of_inventory_items_24x24-26_80: 1673114817
+      new_set_of_inventory_items_24x24-26_81: -410987406
+      new_set_of_inventory_items_24x24-26_82: 1769448912
+      new_set_of_inventory_items_24x24-26_83: 1115228809
+      new_set_of_inventory_items_24x24-26_84: -144755446
+      new_set_of_inventory_items_24x24-26_85: -1264364610
+      new_set_of_inventory_items_24x24-26_86: -1895418324
+      new_set_of_inventory_items_24x24-26_87: 424290406
+      new_set_of_inventory_items_24x24-26_88: -1068138433
+      new_set_of_inventory_items_24x24-26_89: -620760205
+      new_set_of_inventory_items_24x24-26_9: 527944823
+      new_set_of_inventory_items_24x24-26_90: -1828392655
+      new_set_of_inventory_items_24x24-26_91: 1697629900
+      new_set_of_inventory_items_24x24-26_92: 1698603960
+      new_set_of_inventory_items_24x24-26_93: -1371457657
+      new_set_of_inventory_items_24x24-26_94: 83538186
+      new_set_of_inventory_items_24x24-26_95: 1695981109
+      new_set_of_inventory_items_24x24-26_96: 1299541248
+      new_set_of_inventory_items_24x24-26_97: 1652073611
+      new_set_of_inventory_items_24x24-26_98: -417264393
+      new_set_of_inventory_items_24x24-26_99: -1227745522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
